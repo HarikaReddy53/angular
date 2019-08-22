@@ -1,0 +1,93 @@
+.navbar {
+     
+    background-color: rgba(192, 156, 37, 0.37)
+ }
+ 
+ .bgimglogin{
+     background-image: url(../src/assets/images/nav.jpg);
+     background-size: cover;
+     height: 100vh;
+     position: relative;
+ }
+ .bgimgothers{
+     background-image: url(../src/assets/images/nav.jpg);
+     background-size: cover;
+     height: 100vh;
+     position: relative;
+ }
+ 
+ .login {
+     text-align: CENTER;
+     height: 100vh;
+ }
+ .bimg{
+     margin-top: 40px;
+     margin-left: 100px;
+     width: 50%;
+ }
+ 
+ .heading {
+     font-size: 75px;
+      text-align: center; 
+     font-family: 'Kaushan Script', cursive;
+     color: black;
+ }
+ 
+ .linksreg
+ {
+     
+     background-color: black!important;
+     border-radius: 5px;
+     margin-right: 250px;
+     
+    
+ }
+ .homeLink
+ {
+     text-decoration: none;
+ }
+ .signup
+ {
+     margin-top: 100px;
+ }
+ .signup1
+ {
+     padding: 20px;
+     border-radius: 20px;
+ }
+ .mentorDetails
+ {
+     border-radius: 20px;
+    
+ }
+ a:hover {
+     text-decoration: none;
+   }
+ 
+   .regbut {
+     color: #fff;
+     background-color: black;
+     border-color: #006bee;
+   }
+   .navsurf
+   {
+       border: 2px solid black;
+       border-radius: 10px;
+       background-color: rgb(255, 255, 255);
+ 
+   }
+   .linksnav
+   {
+       font-size: 10px;
+      
+       /* justify-content: center/////////// */
+   }
+   
+   .contentview
+   {
+     margin-top: 20px;
+   }
+   .topm
+   {
+       margin-top: 20px !important;
+   }
